@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Timberborn-Save-Utility` · Updated: 2026-10-07
+`Timberborn-Save-Utility` · Updated: 2026-10-24
 
 **Tags:** `timberborn` `savegame` `city-builder` `colony` `strategy`
